@@ -1,7 +1,6 @@
 body{
     font-family: sans-serif;
-    background-color: #08AEEA;
-    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    background-image: url('../images2/background01.jpg'); 
     position: relative;
     opacity: 0.70;
     background-position: center;
